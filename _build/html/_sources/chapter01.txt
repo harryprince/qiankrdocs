@@ -1,7 +1,7 @@
 QIANKR API CHAPTER 01
 ==========
 
-.. image:: /_images/qiankr-logo.jpeg
+.. image:: https://raw.githubusercontent.com/harryprince/qiankrdocs/master/_build/html/_images/qiankr-logo.jpeg
 
 this is Chapter 01
 
