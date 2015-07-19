@@ -3,12 +3,12 @@ site_author: Harry Zhu
 copyright: Qiankr Inc., Beijing, China
 
 pages:
-- 'Introduction': 'index.md'
-- 'User Guide': 'user-guide.md'
-- 'About': 'about.md'
+# - 'Introduction': 'index.md'
+# - 'User Guide': 'user-guide.md'
+# - 'About': 'about.md'
 - 'Api' : 'api.md'
-- 'Backend' : 'backend.md'
-- 'Fontend' : 'fontend.md'
+# - 'Backend' : 'backend.md'
+# - 'Fontend' : 'fontend.md'
 
 use_directory_urls=true
 
