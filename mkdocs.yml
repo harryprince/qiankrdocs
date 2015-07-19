@@ -1,0 +1,21 @@
+site_name: Qiankr Api Docs
+site_author: Harry Zhu
+copyright: Qiankr Inc., Beijing, China
+
+pages:
+- 'Introduction': 'index.md'
+- 'User Guide': 'user-guide.md'
+- 'About': 'about.md'
+- 'Api' : 'api.md'
+- 'Backend' : 'backend.md'
+- 'Fontend' : 'fontend.md'
+
+use_directory_urls=true
+
+mkdocs serve --dev-addr=0.0.0.0:80
+
+markdown_extensions:
+    - smarty
+    - toc:
+        permalink: True
+        separator: "_"
