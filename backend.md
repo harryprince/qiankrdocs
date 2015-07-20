@@ -230,7 +230,7 @@ image_id = fdbaf9d61f8148c38e62104fc9f1adda_profile_image_1
   8. album_name                       #各专辑名称
   9. album_photo_number               #各专辑图片总数
 
-### 四、内容编辑模块   *** 需要用户登录 ***  单张专辑一次最多9张图片
+### 四、产出内容模块   *** 需要用户登录 ***  单张专辑一次最多9张图片
 
 1. 图片上传:/api/upload_token/
 
